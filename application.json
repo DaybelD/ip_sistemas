@@ -1,8 +1,32 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Login",
       "isDefault": true
+    },
+    {
+      "id": "Registros actuales",
+      "isDefault": false
+    },
+    {
+      "id": "Registros por mes",
+      "isDefault": false
+    },
+    {
+      "id": "Agregar",
+      "isDefault": false
+    },
+    {
+      "id": "Bancos",
+      "isDefault": false
+    },
+    {
+      "id": "Usuarios",
+      "isDefault": false
+    },
+    {
+      "id": "Tasa del dia",
+      "isDefault": false
     }
   ],
   "viewMode": false,
